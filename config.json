@@ -1,55 +1,55 @@
 {
-  "cache_time": 7200,
-  "api_site": {
-    "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
-    },
-    "ruyi": {
+  "cache_time": 7200"cache_time": 7200,
+  "api_site": {"api_site": {
+    "dyttzy": {"dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod","api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "名称": "电影天堂资源""name": "电影天堂资源",
+      "detail": "http://caiji.dyttzyapi.com""detail": "http://caiji.dyttzyapi.com"
+    }},
+    "heimuer": {"heimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod","api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "名称": "黑木耳""name": "黑木耳",
+      "详情": "https://heimuer.tv""detail": "https://heimuer.tv"
+    }},
+    "如意": {"如意": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+      "名称": "如意资源"
     },
-    "bfzy": {
+    "bfzy"：{
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
+      "名称": "暴风资源"
     },
-    "tyyszy": {
+    "tyyszy"：{
       "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+      "名称": "天涯资源"
     },
-    "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
-    },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
-    },
-    "iqiyi": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+    "ffzy": {"ffzy"：{
+      "api": "http://ffzy5.tv/api.php/provide/vod","api": "http://ffzy5.tv/api.php/provide/vod",
+      "名称": "非凡影视""name": "非凡影视",
+      "详情": "http://ffzy5.tv""detail": "http://ffzy5.tv"
+    }},
+    "zy360": {"zy360": {
+      "api": "https://360zy.com/api.php/provide/vod","api": "https://360zy.com/api.php/provide/vod",
+      "名称": "360资源""name": "360资源"
+    }},
+    "iqiyi": {"iqiyi": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod","api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+      "名称": "卧龙资源"
     },
-    "jisu": {
+    "机速": {
       "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
-      "detail": "https://jszyapi.com"
+      "名称": "极速资源",
+      "详情": "https://jszyapi.com"
     },
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "豆瓣资源"
+      "名称": "豆瓣资源"
     },
-    "mozhua": {
+    "涂抹": {
       "api": "https://mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源"
     },
@@ -83,7 +83,10 @@
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
+      "name": "小猫咪资源"},
+    "xiaomaomi": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
     }
   }
 }
